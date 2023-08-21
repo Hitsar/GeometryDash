@@ -114,4 +114,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fcab95b4b7b480f9d6eebafeb11fe7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _portalState: 0
+  _jumpForce: 0
+  _isGravity: 0
+  _isState: 1
+  _playerStates: 0
+  _position: {fileID: 0}

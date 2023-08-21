@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &7764651126714842522
+--- !u!1001 &8746342650514086457
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -8,12 +8,8 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 480321081695634277, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
-      propertyPath: _portalState
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 480321081695634277, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
       propertyPath: _playerStates
-      value: 3
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1524335007964651742, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
       propertyPath: m_RootOrder
@@ -60,12 +56,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4721507757536433041, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4721507757536433041, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
       propertyPath: m_Color.g
-      value: 0.30980393
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4721507757536433041, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
       propertyPath: m_Color.r
@@ -73,7 +65,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7747533268785354716, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
       propertyPath: m_Name
-      value: UfoPortal
+      value: SwingCopterPortal
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}

@@ -11,6 +11,10 @@ PrefabInstance:
       propertyPath: _portalState
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 480321081695634277, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
+      propertyPath: _playerStates
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 1524335007964651742, guid: c56e9706014d48848a796d5fc8a4a2bd, type: 3}
       propertyPath: m_RootOrder
       value: 0

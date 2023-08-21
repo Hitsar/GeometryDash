@@ -6,6 +6,9 @@ namespace Player.States
     {
         [SerializeField] private float _jumpForce = 24;
 
-        protected override void Action() { if (IsGround && InputSystem.Player.Jump.IsPressed()) Jump(_jumpForce); }
+        protected override void Action()
+        { 
+            if (IsGround && InputSystem.Player.Jump.IsPressed()) Jump(_jumpForce);
+        }
     }
 }
