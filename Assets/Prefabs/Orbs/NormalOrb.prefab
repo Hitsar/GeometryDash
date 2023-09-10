@@ -99,10 +99,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _jumpForce: 24
-  _playerStates: 0
-  _isJump: 1
   _isGravity: 0
   _isState: 0
+  _playerStates: 0
+  _position: {fileID: 0}
 --- !u!58 &845146809022436370
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -118,4 +118,4 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.6
+  m_Radius: 1
